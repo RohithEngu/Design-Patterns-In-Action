@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<!-- Testing Package Building -->
+<Package>
+  <Declaration>
+	<Package>PackageBuilderTest</Package>
+	<class>TestClass</class>
+	<struct>TestStuct</struct>
+  </Declaration>
+  <ManualPage>
+	<Prolog>
+		<Author>XYZ</Author> 
+		<Email>abc@xyz.com</Email>
+	</Prolog>
+	<PackageOps>
+		<op>1</op>
+		<op>2</op>
+	</PackageOps>
+  </ManualPage>
+  <MaintenancePage>
+	<ReqFiles>
+		<File>a.cs</File>
+		<File>b.cs</File>
+		<File>c.cs</File>
+	</ReqFiles>
+	<BuildProc>csc</BuildProc>
+	<Version>1.0</Version>
+  </MaintenancePage>  
+  <TestStub>TEST_PACKAGE</TestStub>
+</Package>

@@ -1,0 +1,6 @@
+A:\College\DP\InterpreterPattern\Interpreter\PackageBuilderWizard\bin\Debug\PackageBuilderWizard.exe.config
+A:\College\DP\InterpreterPattern\Interpreter\PackageBuilderWizard\bin\Debug\PackageBuilderWizard.exe
+A:\College\DP\InterpreterPattern\Interpreter\PackageBuilderWizard\bin\Debug\PackageBuilderWizard.pdb
+A:\College\DP\InterpreterPattern\Interpreter\PackageBuilderWizard\obj\Debug\PackageBuilderWizard.csprojResolveAssemblyReference.cache
+A:\College\DP\InterpreterPattern\Interpreter\PackageBuilderWizard\obj\Debug\PackageBuilderWizard.exe
+A:\College\DP\InterpreterPattern\Interpreter\PackageBuilderWizard\obj\Debug\PackageBuilderWizard.pdb
